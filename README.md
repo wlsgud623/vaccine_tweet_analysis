@@ -2,5 +2,4 @@
 
 - Covid Vaccine Preference Investment with the sentiment analysis of Tweets
 
-
-Tech. Python
+- Lang. Python
